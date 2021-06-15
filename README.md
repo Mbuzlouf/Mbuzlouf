@@ -6,5 +6,5 @@
   </p>
 
 <p align="center" > 
-<img alt="Mohammed's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mbuzlouf&show_icons=true&hide_border=true" />
+<img alt="Mohammed's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mbuzlouf&show_icons=true&hide_border=true&hide_background=true" />
 </p>
