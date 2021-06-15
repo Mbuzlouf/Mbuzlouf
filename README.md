@@ -6,3 +6,16 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=Mbuzlouf&&show_icons=true&theme=algolia"/>
   </a>
   </p>
+  <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Mohammed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mbuzlouf&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Mohammed's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mbuzlouf" />
+
+</details>
