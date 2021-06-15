@@ -6,12 +6,13 @@
 
 ## Who am I? 🤔
 
-> ### "I AM" two of the most powerful words, for what you put after them shape your reality.
+> ### "I + AM" two of the most powerful words, for what you put after them shape your reality.
 
 - #### 🙇🏻‍♂️ I AM **Mohammed Buzlouf**.
 - #### 📅 I AM **16 years old**.
 - #### 🇰🇼 I AM **Kuwaiti**.
-- #### 😂 I am sorry just **praising myself**.
+- #### 💻 I AM a **Front-End Developer**.
+- #### 😅 I AM sorry to let you read "I AM" for the 1M time..
 
   <!-- <div align="center">
     <img  alt="Mohammed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mbuzlouf&show_icons=true&hide_border=true&theme=react" />
