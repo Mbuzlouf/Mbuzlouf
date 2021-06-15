@@ -7,12 +7,12 @@
 ## Who am I? 🤔
 
 > ### "I + AM" two of the most powerful words, for what you put after them shape your reality.
+>
+> <img align="right" alt="Banner" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/me.gif?raw=true" width="50%" />
 
 - #### 🙇🏻‍♂️ I AM **Mohammed Buzlouf**.
 - #### 📅 I AM **16 years old**.
 - #### 🇰🇼 I AM **Kuwaiti**.
-
-<img align="right" alt="Banner" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/me.gif?raw=true" width="50%" />
 
 - #### 💻 I AM a **Front-End Developer**.
 - #### 😅 I AM sorry to let you read "I AM" for the 1M time..
