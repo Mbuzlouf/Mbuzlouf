@@ -8,7 +8,7 @@
 
 > ### "I + AM" two of the most powerful words, for what you put after them shape your reality.
 >
-> <img align="right" alt="Banner" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/me.gif?raw=true" width="50%" />
+> <img align="right" alt="Banner" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/me2.gif?raw=true" width="50%" />
 
 - #### 🙇🏻‍♂️ I AM **Mohammed Buzlouf**.
 - #### 📅 I AM **16 years old**.
