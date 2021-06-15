@@ -27,8 +27,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 > ### Pets are not our whole life, but they make our lives whole.
 
