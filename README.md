@@ -4,6 +4,10 @@
  
  ***
 
+- I am _unique_.
+  - I am _special_.
+    - I am a _developer_
+
 ## Who am I? 🤔
 
 ### "I AM" two of the most powerful words, for what you put after them shape your reality.
