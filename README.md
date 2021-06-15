@@ -17,6 +17,9 @@
 - #### | 💻 | I AM a **front-end developer**.
 - #### | 😅 | I AM sorry to let you read "I AM" for the 1M time..
 
+<br>
+<br>
+
 ## Meet Samantha 🐢
 
  <img align="left" alt="Samantha" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/Samantha.gif?raw=true" width="50%" />
@@ -28,7 +31,7 @@
 <br>
 <br>
 
-> ### Pets are not our whole life, but they make our lives whole.
+> # Pets are not our whole life, but they make our lives whole.
 
   <!-- <div align="center">
     <img  alt="Mohammed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mbuzlouf&show_icons=true&hide_border=true&theme=react" />
