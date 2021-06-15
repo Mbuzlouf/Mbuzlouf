@@ -17,8 +17,6 @@
 - #### 💻 I AM a **front-end developer**.
 - #### 😅 I AM sorry to let you read "I AM" for the 1M time..
 
-  ***
-
 ## Meet Samantha 🐢
 
  <img align="left" alt="Samantha" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/Samantha.gif?raw=true" width="50%" />
