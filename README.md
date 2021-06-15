@@ -6,6 +6,8 @@
 
 ## Who am I? 🤔
 
+ <img align="right" alt="Banner" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/me.gif?raw=true" width="100%" />
+
 > ### "I + AM" two of the most powerful words, for what you put after them shape your reality.
 
 - #### 🙇🏻‍♂️ I AM **Mohammed Buzlouf**.
