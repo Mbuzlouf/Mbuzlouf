@@ -10,12 +10,12 @@
 
 > ### "I + AM" two of the most powerful words, for what you put after them shape your reality.
 
-- #### 🙇🏻‍♂️ I AM **Mohammed Buzlouf**.
-- #### 📅 I AM **16 years old**.
-- #### 🇰🇼 I AM **Kuwaiti**.
+- #### 🙇🏻‍♂️ | I AM **Mohammed Buzlouf**.
+- #### 📅 | I AM **16 years old**.
+- #### 🇰🇼 | I AM **Kuwaiti**.
 
-- #### 💻 I AM a **front-end developer**.
-- #### 😅 I AM sorry to let you read "I AM" for the 1M time..
+- #### 💻 | I AM a **front-end developer**.
+- #### 😅 | I AM sorry to let you read "I AM" for the 1M time..
 
 ## Meet Samantha 🐢
 
