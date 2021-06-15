@@ -8,9 +8,9 @@
 
 > ### "I AM" two of the most powerful words, for what you put after them shape your reality.
 
-- #### ✨ I am **unique**.
-- #### 💫 I am **special**.
-- #### 💻 I am a **developer**.
+- #### 🙇🏻‍♂️ I AM **Mohammed Buzlouf**.
+- #### 📅 I AM **16 years old**.
+- #### 🇰🇼 I AM **Kuwaiti**.
 - #### 😂 I am sorry just **praising myself**.
 
   <!-- <div align="center">
