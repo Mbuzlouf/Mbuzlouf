@@ -21,6 +21,11 @@
 
  <img align="left" alt="Samantha" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/Samantha.gif?raw=true" width="50%" />
 
+<br>
+<br>
+<br>
+<br>
+
 > ### Pets are not our whole life, but they make our lives whole.
 
   <!-- <div align="center">
