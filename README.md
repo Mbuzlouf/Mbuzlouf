@@ -18,7 +18,6 @@
 - #### | 😅 | I AM sorry to let you read "I AM" for the 1M time..
 
 <br>
-<br>
 
 ## Meet Samantha 🐢
 
