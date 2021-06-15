@@ -6,7 +6,7 @@
 
 ## Who am I? 🤔
 
-<p>"I AM" two of the most powerful words, for what you put after them shape your reality.</p>
+# "I AM" two of the most powerful words, for what you put after them shape your reality.
 
 <div align="center">
   <img  alt="Mohammed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mbuzlouf&show_icons=true&hide_border=true&theme=react"/>
