@@ -6,7 +6,7 @@
 
 ## Who am I? 🤔
 
-> <img align="right" alt="Banner" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/me2.gif?raw=true" width="50%" />
+> <img align="right" alt="Banner" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/me.gif?raw=true" width="50%" />
 
 > ### "I + AM" two of the most powerful words, for what you put after them shape your reality.
 
@@ -14,8 +14,12 @@
 - #### 📅 I AM **16 years old**.
 - #### 🇰🇼 I AM **Kuwaiti**.
 
-- #### 💻 I AM a **Front-End Developer**.
+- #### 💻 I AM a **front-end developer**.
 - #### 😅 I AM sorry to let you read "I AM" for the 1M time..
+
+  ***
+
+## Meet my pet...
 
   <!-- <div align="center">
     <img  alt="Mohammed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mbuzlouf&show_icons=true&hide_border=true&theme=react" />
