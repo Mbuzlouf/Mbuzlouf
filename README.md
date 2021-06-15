@@ -4,9 +4,7 @@
  
  ***
 
-### Who am I? 🤔
-
----
+## Who am I? 🤔
 
 <div align="center">
   <img  alt="Mohammed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mbuzlouf&show_icons=true&hide_border=true&theme=react"/>
