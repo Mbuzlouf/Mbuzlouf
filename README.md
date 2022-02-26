@@ -11,7 +11,7 @@
 > ### "I + AM = Two of the most powerful words, for what you put after them shape your reality"
 
 - #### | 🙇🏻‍♂️ | I AM **Mohammed Buzlouf**.
-- #### | 📅 | I AM **16 years old**.
+- #### | 📅 | I AM **17 years old**.
 - #### | 🇰🇼 | I AM **Kuwaiti**.
 
 - #### | 💻 | I AM a **front-end developer**.
