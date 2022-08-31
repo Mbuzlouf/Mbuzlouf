@@ -16,6 +16,13 @@
 - #### | 🇰🇼 | **A Kuwaiti programmer**.
 - #### | 💻 | **front-end developer**.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
  <img align="right" alt="KC" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/Samantha.gif?raw=true" width="50%" />
 
 <br>
