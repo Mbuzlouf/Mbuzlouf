@@ -15,6 +15,24 @@
 - #### | 🩺 | **Medicine Student**.
 - #### | 🇰🇼 | **A Kuwaiti programmer**.
 - #### | 💻 | **front-end developer**.
+
+ <img align="right" alt="KC" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/Samantha.gif?raw=true" width="50%" />
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+ ### "Web track Mentor at Kuwait Codes initiative"
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Meet Samantha 🐢
 
  <img align="left" alt="Samantha" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/Samantha.gif?raw=true" width="50%" />
@@ -35,23 +53,7 @@
 <br>
 <br>
 
- <img align="right" alt="KC" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/Samantha.gif?raw=true" width="50%" />
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
- ### "Web track Mentor at Kuwait Codes initiative"
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 # To be continued...
 
