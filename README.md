@@ -10,13 +10,11 @@
 
 > ### "I + AM = Two of the most powerful words, for what you put after them shape your reality"
 
-- #### | 🙇🏻‍♂️ | I AM **Mohammed Buzlouf**.
-- #### | 📅 | I AM **17 years old**.
-- #### | 🇰🇼 | I AM **Kuwaiti**.
-
-- #### | 💻 | I AM a **front-end developer**.
-- #### | 😅 | I AM sorry to let you read "I AM" for the 1M time..
-
+- #### | 🙇🏻‍♂️ | **Mohammed Buzlouf**.
+- #### | 📅 | **18 years old**.
+- #### | 🩺 | **Medicine Student**.
+- #### | 🇰🇼 | **A Kuwaiti programmer**.
+- #### | 💻 | **front-end developer**.
 ## Meet Samantha 🐢
 
  <img align="left" alt="Samantha" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/Samantha.gif?raw=true" width="50%" />
