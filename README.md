@@ -23,7 +23,19 @@
 <br>
 <br>
 
- <img align="right" alt="KC" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/Samantha.gif?raw=true" width="50%" />
+ <img align="left" alt="KC" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/Samantha.gif?raw=true" width="50%" />
+
+<br>
+<br>
+<br>
+<br>
+
+
+ ## Kuwait Codes Web track:
+  1. Student 👨🏻‍🎓
+  2. Winner 🏆
+  3. Student Mentor 🦸🏻‍♂️
+  4. Mentor 🧑🏻‍🏫
 
 <br>
 <br>
@@ -31,18 +43,11 @@
 <br>
 <br>
 <br>
+ 
 
- ### "Web track Mentor at Kuwait Codes initiative"
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 ## Meet Samantha 🐢
 
- <img align="left" alt="Samantha" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/Samantha.gif?raw=true" width="50%" />
+ <img align="right" alt="Samantha" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/Samantha.gif?raw=true" width="50%" />
 
 <br>
 <br>
