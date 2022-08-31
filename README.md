@@ -35,6 +35,24 @@
 <br>
 <br>
 
+ <img align="right" alt="KC" src="https://github.com/Mbuzlouf/Mbuzlouf/blob/main/Assets/Samantha.gif?raw=true" width="50%" />
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+> ### "Web track Mentor at Kuwait Codes initiative"
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # To be continued...
 
   <!-- <div align="center">
